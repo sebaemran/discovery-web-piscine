@@ -1,0 +1,5 @@
+Edit The README.md file.
+Add The Changes To The Staging Area With git add.
+Commit The Changes With git commit.
+Push The Commit To GitHub With git push.
+
